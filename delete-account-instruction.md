@@ -68,7 +68,7 @@ All Data" option.
 
 If you are unable to access the app or prefer to request deletion via email:
 
-1. Send an email to **betterself.fitness.contact@gmail.com** with the subject
+1. Send an email to **contact@betterself-fitness.com** with the subject
    line "Request Account Deletion".
 2. Please include your registered **email address** in the body of the email to
    help us locate your account.

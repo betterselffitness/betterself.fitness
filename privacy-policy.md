@@ -98,4 +98,4 @@ periodically for any changes.
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-**Email:** betterself.fitness.contact@gmail.com
+**Email:** contact@betterself-fitness.com

@@ -77,4 +77,4 @@ these Terms. Upon termination, your right to use the App will cease immediately.
 ## Contact Us
 
 If you have any questions about these Terms, please contact us at: **Email:**
-betterself.fitness.contact@gmail.com
+contact@betterself-fitness.com
