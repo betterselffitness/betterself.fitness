@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** 2025-12-28
+**Effective Date:** 2026-01-22
 
 ## Introduction
 
@@ -24,7 +24,21 @@ includes:
 - **User Preferences:** We store your settings and preferences to customize your
   experience.
 
-### 2. Information Collected Automatically
+### 2. Health Connect Data (BetterSelf.fitness)
+
+Our App integrates with Health Connect by Android™ to provide a unified fitness experience. We access the following data types to power our features:
+
+- **Total Calories Burned & Nutrition:** Used to display your daily energy balance and macro-nutrient tracking on the dashboard.
+- **Weight & Body Fat:** Used to visualize your body composition trends over time.
+- **Sleep:** Used to calculate your recovery score and suggest workout intensities.
+
+**Important Privacy Standards:**
+
+- **Local Processing:** All data received from Health Connect is processed locally on your device. We do not transmit, store, or back up this health data to our servers.
+- **Limited Use Disclosure:** Our use of information received from Health Connect will adhere to the Health Connect Permissions Policy, including the Limited Use requirements.
+- **No Data Selling:** We will never sell your Health Connect data to third parties, including data brokers or advertisers.
+
+### 3. Information Collected Automatically
 
 - **Usage Data:** We may collect information about how you use the App, such as
   the features you use and the time spent on the App.
@@ -44,6 +58,7 @@ We use the collected information for the following purposes:
   design.
 - **Communication:** To send you important updates, security alerts, and support
   messages.
+- **Health Insights:** To generate recovery scores and fitness trends using the data synced from Health Connect.
 
 ## Data Sharing and Disclosure
 
@@ -58,6 +73,7 @@ information in the following limited circumstances:
 - **Legal Requirements:** We may disclose your information if required to do so
   by law or in the good faith belief that such action is necessary to comply
   with legal obligations, protect our rights, or ensure the safety of our users.
+- **Health Data Restriction:** Notwithstanding any other section of this policy, we do not share Health Connect data with "Service Providers" or for "Legal Requirements" unless explicitly required by a specific law or to provide the core local functionality you have requested. We do not share health data for analytics or advertising.
 
 ## Data Retention
 
