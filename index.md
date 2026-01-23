@@ -10,7 +10,7 @@ description: Transform your life with simple daily habits. Sleep, Fasting, Exerc
 
 BetterSelf.fitness is a habit transformation platform designed to help you maintain healthy routines consistently. We've distilled wellness into the essential metrics that truly matter, without the clutter.
 
-[**Download for Android**](#)
+[**Download for Android**](https://play.google.com/store/apps/details?id=com.betterself.fitness.app)
 
 ---
 
